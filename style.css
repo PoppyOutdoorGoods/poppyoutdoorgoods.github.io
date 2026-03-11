@@ -4,3 +4,15 @@
   box-sizing: border-box;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+img {
+  max-width: 90vw;
+  max-height:90vh;
+}
